@@ -1,7 +1,7 @@
 import { Component, Input  } from 'angular2/core';
 import {Country} from './country.model';
 import {CountriesComponent} from './Contrynames';
-import {NgClass} from 'angular2/common';
+import {Http, Response, HTTP_PROVIDERS} from 'angular2/http';
 @Component({
     selector: 'detail',
     template: `
@@ -10,6 +10,7 @@ import {NgClass} from 'angular2/common';
      <center> 
     
     <button  class="button" (click) = "classChnage()"  id="btn2">Back</button>
+    
       <div  class="div_des" *ngIf="countries" >
         <h2>{{countries.name}}</h2> <br>
          <p class="p"> Population of country:</p> <span class="span">{{countries.population}}</span><br>
@@ -18,18 +19,20 @@ import {NgClass} from 'angular2/common';
         <p class="p">Language:</p><span class="span">{{countries.languages}}</span><br>
         <p class="p">Region:</p><span class="span">{{countries.region}}</span><br>
          <p class="p">Currencies:</p><span class="span">{{countries.currencies}}</span>
-       </div>
-     
-        </center>
-    </div>
+         <img class="img"  src="src/images/{{countries.name}}.png" onError="this.src='src/images/no_image_placeholder.png' "> 
+     </div>
     
+   
+        </center>
+    </div> 
     `  ,
-    directives:[NgClass]
-})
+   providers: [HTTP_PROVIDERS]
+})// 
 export class detail    {
    ele ;
    @Input() countries: Country;
-    classList = ["fadeOut"];
+  
+     
 classChnage(){
     
    

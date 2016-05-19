@@ -5,6 +5,7 @@ export class Country{
     languages: String;
     capital: String;
     region: String;
-    currencies: string;
+    currencies: String;
+   
     
 }

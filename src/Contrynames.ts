@@ -67,7 +67,7 @@ export class CountriesComponent  {
 
 
  public ountries_error:Boolean = false;
-countries: Country[] ;
+countries: Country[];
 selectedCountry: Country;
   constructor(private _Countryervice: Countryervice, private _detail: detail ) {}
 

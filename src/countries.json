@@ -40,7 +40,7 @@
             "93"
         ],
         "topLevelDomain": [
-            ".af"
+            "af"
         ],
         "alpha2Code": "AF",
         "alpha3Code": "AFG",
@@ -87,7 +87,7 @@
             "358"
         ],
         "topLevelDomain": [
-            ".ax"
+            "ax"
         ],
         "alpha2Code": "AX",
         "alpha3Code": "ALA",
@@ -139,7 +139,7 @@
             "355"
         ],
         "topLevelDomain": [
-            ".al"
+            "al"
         ],
         "alpha2Code": "AL",
         "alpha3Code": "ALB",
@@ -193,7 +193,7 @@
             "213"
         ],
         "topLevelDomain": [
-            ".dz"
+            "dz"
         ],
         "alpha2Code": "DZ",
         "alpha3Code": "DZA",
@@ -238,7 +238,7 @@
             "1684"
         ],
         "topLevelDomain": [
-            ".as"
+            "as"
         ],
         "alpha2Code": "AS",
         "alpha3Code": "ASM",
@@ -288,7 +288,7 @@
             "376"
         ],
         "topLevelDomain": [
-            ".ad"
+            "ad"
         ],
         "alpha2Code": "AD",
         "alpha3Code": "AND",
@@ -339,7 +339,7 @@
             "244"
         ],
         "topLevelDomain": [
-            ".ao"
+            "ao"
         ],
         "alpha2Code": "AO",
         "alpha3Code": "AGO",
@@ -381,7 +381,7 @@
             "1264"
         ],
         "topLevelDomain": [
-            ".ai"
+            "ai"
         ],
         "alpha2Code": "AI",
         "alpha3Code": "AIA",
@@ -425,7 +425,7 @@
             "1268"
         ],
         "topLevelDomain": [
-            ".ag"
+            "ag"
         ],
         "alpha2Code": "AG",
         "alpha3Code": "ATG",
@@ -477,7 +477,7 @@
             "54"
         ],
         "topLevelDomain": [
-            ".ar"
+            "ar"
         ],
         "alpha2Code": "AR",
         "alpha3Code": "ARG",
@@ -530,7 +530,7 @@
             "374"
         ],
         "topLevelDomain": [
-            ".am"
+            "am"
         ],
         "alpha2Code": "AM",
         "alpha3Code": "ARM",
@@ -573,7 +573,7 @@
             "297"
         ],
         "topLevelDomain": [
-            ".aw"
+            "aw"
         ],
         "alpha2Code": "AW",
         "alpha3Code": "ABW",
@@ -625,7 +625,7 @@
             "61"
         ],
         "topLevelDomain": [
-            ".au"
+            "au"
         ],
         "alpha2Code": "AU",
         "alpha3Code": "AUS",
@@ -681,7 +681,7 @@
             "43"
         ],
         "topLevelDomain": [
-            ".at"
+            "at"
         ],
         "alpha2Code": "AT",
         "alpha3Code": "AUT",
@@ -733,7 +733,7 @@
             "994"
         ],
         "topLevelDomain": [
-            ".az"
+            "az"
         ],
         "alpha2Code": "AZ",
         "alpha3Code": "AZE",
@@ -779,7 +779,7 @@
             "1242"
         ],
         "topLevelDomain": [
-            ".bs"
+            "bs"
         ],
         "alpha2Code": "BS",
         "alpha3Code": "BHS",
@@ -825,7 +825,7 @@
             "973"
         ],
         "topLevelDomain": [
-            ".bh"
+            "bh"
         ],
         "alpha2Code": "BH",
         "alpha3Code": "BHR",
@@ -874,7 +874,7 @@
             "880"
         ],
         "topLevelDomain": [
-            ".bd"
+            "bd"
         ],
         "alpha2Code": "BD",
         "alpha3Code": "BGD",
@@ -918,7 +918,7 @@
             "1246"
         ],
         "topLevelDomain": [
-            ".bb"
+            "bb"
         ],
         "alpha2Code": "BB",
         "alpha3Code": "BRB",
@@ -974,7 +974,7 @@
             "375"
         ],
         "topLevelDomain": [
-            ".by"
+            "by"
         ],
         "alpha2Code": "BY",
         "alpha3Code": "BLR",
@@ -1032,7 +1032,7 @@
             "32"
         ],
         "topLevelDomain": [
-            ".be"
+            "be"
         ],
         "alpha2Code": "BE",
         "alpha3Code": "BEL",
@@ -1081,7 +1081,7 @@
             "501"
         ],
         "topLevelDomain": [
-            ".bz"
+            "bz"
         ],
         "alpha2Code": "BZ",
         "alpha3Code": "BLZ",
@@ -1133,7 +1133,7 @@
             "229"
         ],
         "topLevelDomain": [
-            ".bj"
+            "bj"
         ],
         "alpha2Code": "BJ",
         "alpha3Code": "BEN",
@@ -1178,7 +1178,7 @@
             "1441"
         ],
         "topLevelDomain": [
-            ".bm"
+            "bm"
         ],
         "alpha2Code": "BM",
         "alpha3Code": "BMU",
@@ -1226,7 +1226,7 @@
             "975"
         ],
         "topLevelDomain": [
-            ".bt"
+            "bt"
         ],
         "alpha2Code": "BT",
         "alpha3Code": "BTN",
@@ -1284,7 +1284,7 @@
             "591"
         ],
         "topLevelDomain": [
-            ".bo"
+            "bo"
         ],
         "alpha2Code": "BO",
         "alpha3Code": "BOL",
@@ -1330,8 +1330,8 @@
             "5997"
         ],
         "topLevelDomain": [
-            ".an",
-            ".nl"
+            "an",
+            "nl"
         ],
         "alpha2Code": "BQ",
         "alpha3Code": "BES",
@@ -1381,7 +1381,7 @@
             "387"
         ],
         "topLevelDomain": [
-            ".ba"
+            "ba"
         ],
         "alpha2Code": "BA",
         "alpha3Code": "BIH",
@@ -1434,7 +1434,7 @@
             "267"
         ],
         "topLevelDomain": [
-            ".bw"
+            "bw"
         ],
         "alpha2Code": "BW",
         "alpha3Code": "BWA",
@@ -1479,7 +1479,7 @@
             ""
         ],
         "topLevelDomain": [
-            ".bv"
+            "bv"
         ],
         "alpha2Code": "BV",
         "alpha3Code": "BVT",
@@ -1538,7 +1538,7 @@
             "55"
         ],
         "topLevelDomain": [
-            ".br"
+            "br"
         ],
         "alpha2Code": "BR",
         "alpha3Code": "BRA",
@@ -1580,7 +1580,7 @@
             "246"
         ],
         "topLevelDomain": [
-            ".io"
+            "io"
         ],
         "alpha2Code": "IO",
         "alpha3Code": "IOT",
@@ -1619,7 +1619,7 @@
             ""
         ],
         "topLevelDomain": [
-            ".us"
+            "us"
         ],
         "alpha2Code": "UM",
         "alpha3Code": "UMI",
@@ -1661,7 +1661,7 @@
             "1284"
         ],
         "topLevelDomain": [
-            ".vg"
+            "vg"
         ],
         "alpha2Code": "VG",
         "alpha3Code": "VGB",
@@ -1709,7 +1709,7 @@
             "673"
         ],
         "topLevelDomain": [
-            ".bn"
+            "bn"
         ],
         "alpha2Code": "BN",
         "alpha3Code": "BRN",
@@ -1761,7 +1761,7 @@
             "359"
         ],
         "topLevelDomain": [
-            ".bg"
+            "bg"
         ],
         "alpha2Code": "BG",
         "alpha3Code": "BGR",
@@ -1812,7 +1812,7 @@
             "226"
         ],
         "topLevelDomain": [
-            ".bf"
+            "bf"
         ],
         "alpha2Code": "BF",
         "alpha3Code": "BFA",
@@ -1864,7 +1864,7 @@
             "257"
         ],
         "topLevelDomain": [
-            ".bi"
+            "bi"
         ],
         "alpha2Code": "BI",
         "alpha3Code": "BDI",
@@ -1914,7 +1914,7 @@
             "855"
         ],
         "topLevelDomain": [
-            ".kh"
+            "kh"
         ],
         "alpha2Code": "KH",
         "alpha3Code": "KHM",
@@ -1967,7 +1967,7 @@
             "237"
         ],
         "topLevelDomain": [
-            ".cm"
+            "cm"
         ],
         "alpha2Code": "CM",
         "alpha3Code": "CMR",
@@ -2019,7 +2019,7 @@
             "1"
         ],
         "topLevelDomain": [
-            ".ca"
+            "ca"
         ],
         "alpha2Code": "CA",
         "alpha3Code": "CAN",
@@ -2066,7 +2066,7 @@
             "238"
         ],
         "topLevelDomain": [
-            ".cv"
+            "cv"
         ],
         "alpha2Code": "CV",
         "alpha3Code": "CPV",
@@ -2108,7 +2108,7 @@
             "1345"
         ],
         "topLevelDomain": [
-            ".ky"
+            "ky"
         ],
         "alpha2Code": "KY",
         "alpha3Code": "CYM",
@@ -2161,7 +2161,7 @@
             "236"
         ],
         "topLevelDomain": [
-            ".cf"
+            "cf"
         ],
         "alpha2Code": "CF",
         "alpha3Code": "CAF",
@@ -2216,7 +2216,7 @@
             "235"
         ],
         "topLevelDomain": [
-            ".td"
+            "td"
         ],
         "alpha2Code": "TD",
         "alpha3Code": "TCD",
@@ -2268,7 +2268,7 @@
             "56"
         ],
         "topLevelDomain": [
-            ".cl"
+            "cl"
         ],
         "alpha2Code": "CL",
         "alpha3Code": "CHL",
@@ -2335,7 +2335,7 @@
             "86"
         ],
         "topLevelDomain": [
-            ".cn"
+            "cn"
         ],
         "alpha2Code": "CN",
         "alpha3Code": "CHN",
@@ -2378,7 +2378,7 @@
             "61"
         ],
         "topLevelDomain": [
-            ".cx"
+            "cx"
         ],
         "alpha2Code": "CX",
         "alpha3Code": "CXR",
@@ -2422,7 +2422,7 @@
             "61"
         ],
         "topLevelDomain": [
-            ".cc"
+            "cc"
         ],
         "alpha2Code": "CC",
         "alpha3Code": "CCK",
@@ -2474,7 +2474,7 @@
             "57"
         ],
         "topLevelDomain": [
-            ".co"
+            "co"
         ],
         "alpha2Code": "CO",
         "alpha3Code": "COL",
@@ -2522,7 +2522,7 @@
             "269"
         ],
         "topLevelDomain": [
-            ".km"
+            "km"
         ],
         "alpha2Code": "KM",
         "alpha3Code": "COM",
@@ -2574,7 +2574,7 @@
             "242"
         ],
         "topLevelDomain": [
-            ".cg"
+            "cg"
         ],
         "alpha2Code": "CG",
         "alpha3Code": "COG",
@@ -2633,7 +2633,7 @@
             "243"
         ],
         "topLevelDomain": [
-            ".cd"
+            "cd"
         ],
         "alpha2Code": "CD",
         "alpha3Code": "COD",
@@ -2680,7 +2680,7 @@
             "682"
         ],
         "topLevelDomain": [
-            ".ck"
+            "ck"
         ],
         "alpha2Code": "CK",
         "alpha3Code": "COK",
@@ -2729,7 +2729,7 @@
             "506"
         ],
         "topLevelDomain": [
-            ".cr"
+            "cr"
         ],
         "alpha2Code": "CR",
         "alpha3Code": "CRI",
@@ -2782,7 +2782,7 @@
             "385"
         ],
         "topLevelDomain": [
-            ".hr"
+            "hr"
         ],
         "alpha2Code": "HR",
         "alpha3Code": "HRV",
@@ -2828,7 +2828,7 @@
             "53"
         ],
         "topLevelDomain": [
-            ".cu"
+            "cu"
         ],
         "alpha2Code": "CU",
         "alpha3Code": "CUB",
@@ -2876,7 +2876,7 @@
             "5999"
         ],
         "topLevelDomain": [
-            ".cw"
+            "cw"
         ],
         "alpha2Code": "CW",
         "alpha3Code": "CUW",
@@ -2929,7 +2929,7 @@
             "357"
         ],
         "topLevelDomain": [
-            ".cy"
+            "cy"
         ],
         "alpha2Code": "CY",
         "alpha3Code": "CYP",
@@ -2982,7 +2982,7 @@
             "420"
         ],
         "topLevelDomain": [
-            ".cz"
+            "cz"
         ],
         "alpha2Code": "CZ",
         "alpha3Code": "CZE",
@@ -3036,7 +3036,7 @@
             "45"
         ],
         "topLevelDomain": [
-            ".dk"
+            "dk"
         ],
         "alpha2Code": "DK",
         "alpha3Code": "DNK",
@@ -3090,7 +3090,7 @@
             "253"
         ],
         "topLevelDomain": [
-            ".dj"
+            "dj"
         ],
         "alpha2Code": "DJ",
         "alpha3Code": "DJI",
@@ -3138,7 +3138,7 @@
             "1767"
         ],
         "topLevelDomain": [
-            ".dm"
+            "dm"
         ],
         "alpha2Code": "DM",
         "alpha3Code": "DMA",
@@ -3186,7 +3186,7 @@
             "1849"
         ],
         "topLevelDomain": [
-            ".do"
+            "do"
         ],
         "alpha2Code": "DO",
         "alpha3Code": "DOM",
@@ -3236,7 +3236,7 @@
             "593"
         ],
         "topLevelDomain": [
-            ".ec"
+            "ec"
         ],
         "alpha2Code": "EC",
         "alpha3Code": "ECU",
@@ -3285,7 +3285,7 @@
             "20"
         ],
         "topLevelDomain": [
-            ".eg"
+            "eg"
         ],
         "alpha2Code": "EG",
         "alpha3Code": "EGY",
@@ -3334,7 +3334,7 @@
             "503"
         ],
         "topLevelDomain": [
-            ".sv"
+            "sv"
         ],
         "alpha2Code": "SV",
         "alpha3Code": "SLV",
@@ -3386,7 +3386,7 @@
             "240"
         ],
         "topLevelDomain": [
-            ".gq"
+            "gq"
         ],
         "alpha2Code": "GQ",
         "alpha3Code": "GNQ",
@@ -3441,7 +3441,7 @@
             "291"
         ],
         "topLevelDomain": [
-            ".er"
+            "er"
         ],
         "alpha2Code": "ER",
         "alpha3Code": "ERI",
@@ -3493,7 +3493,7 @@
             "372"
         ],
         "topLevelDomain": [
-            ".ee"
+            "ee"
         ],
         "alpha2Code": "EE",
         "alpha3Code": "EST",
@@ -3547,7 +3547,7 @@
             "251"
         ],
         "topLevelDomain": [
-            ".et"
+            "et"
         ],
         "alpha2Code": "ET",
         "alpha3Code": "ETH",
@@ -3590,7 +3590,7 @@
             "500"
         ],
         "topLevelDomain": [
-            ".fk"
+            "fk"
         ],
         "alpha2Code": "FK",
         "alpha3Code": "FLK",
@@ -3634,7 +3634,7 @@
             "298"
         ],
         "topLevelDomain": [
-            ".fo"
+            "fo"
         ],
         "alpha2Code": "FO",
         "alpha3Code": "FRO",
@@ -3682,7 +3682,7 @@
             "679"
         ],
         "topLevelDomain": [
-            ".fj"
+            "fj"
         ],
         "alpha2Code": "FJ",
         "alpha3Code": "FJI",
@@ -3737,7 +3737,7 @@
             "358"
         ],
         "topLevelDomain": [
-            ".fi"
+            "fi"
         ],
         "alpha2Code": "FI",
         "alpha3Code": "FIN",
@@ -3804,7 +3804,7 @@
             "33"
         ],
         "topLevelDomain": [
-            ".fr"
+            "fr"
         ],
         "alpha2Code": "FR",
         "alpha3Code": "FRA",
@@ -3851,7 +3851,7 @@
             "594"
         ],
         "topLevelDomain": [
-            ".gf"
+            "gf"
         ],
         "alpha2Code": "GF",
         "alpha3Code": "GUF",
@@ -3896,7 +3896,7 @@
             "689"
         ],
         "topLevelDomain": [
-            ".pf"
+            "pf"
         ],
         "alpha2Code": "PF",
         "alpha3Code": "PYF",
@@ -3938,7 +3938,7 @@
             ""
         ],
         "topLevelDomain": [
-            ".tf"
+            "tf"
         ],
         "alpha2Code": "TF",
         "alpha3Code": "ATF",
@@ -3988,7 +3988,7 @@
             "241"
         ],
         "topLevelDomain": [
-            ".ga"
+            "ga"
         ],
         "alpha2Code": "GA",
         "alpha3Code": "GAB",
@@ -4033,7 +4033,7 @@
             "220"
         ],
         "topLevelDomain": [
-            ".gm"
+            "gm"
         ],
         "alpha2Code": "GM",
         "alpha3Code": "GMB",
@@ -4081,7 +4081,7 @@
             "995"
         ],
         "topLevelDomain": [
-            ".ge"
+            "ge"
         ],
         "alpha2Code": "GE",
         "alpha3Code": "GEO",
@@ -4137,7 +4137,7 @@
             "49"
         ],
         "topLevelDomain": [
-            ".de"
+            "de"
         ],
         "alpha2Code": "DE",
         "alpha3Code": "DEU",
@@ -4185,7 +4185,7 @@
             "233"
         ],
         "topLevelDomain": [
-            ".gh"
+            "gh"
         ],
         "alpha2Code": "GH",
         "alpha3Code": "GHA",
@@ -4229,7 +4229,7 @@
             "350"
         ],
         "topLevelDomain": [
-            ".gi"
+            "gi"
         ],
         "alpha2Code": "GI",
         "alpha3Code": "GIB",
@@ -4281,7 +4281,7 @@
             "30"
         ],
         "topLevelDomain": [
-            ".gr"
+            "gr"
         ],
         "alpha2Code": "GR",
         "alpha3Code": "GRC",
@@ -4324,7 +4324,7 @@
             "299"
         ],
         "topLevelDomain": [
-            ".gl"
+            "gl"
         ],
         "alpha2Code": "GL",
         "alpha3Code": "GRL",
@@ -4368,7 +4368,7 @@
             "1473"
         ],
         "topLevelDomain": [
-            ".gd"
+            "gd"
         ],
         "alpha2Code": "GD",
         "alpha3Code": "GRD",
@@ -4411,7 +4411,7 @@
             "590"
         ],
         "topLevelDomain": [
-            ".gp"
+            "gp"
         ],
         "alpha2Code": "GP",
         "alpha3Code": "GLP",
@@ -4454,7 +4454,7 @@
             "1671"
         ],
         "topLevelDomain": [
-            ".gu"
+            "gu"
         ],
         "alpha2Code": "GU",
         "alpha3Code": "GUM",
@@ -4505,7 +4505,7 @@
             "502"
         ],
         "topLevelDomain": [
-            ".gt"
+            "gt"
         ],
         "alpha2Code": "GT",
         "alpha3Code": "GTM",
@@ -4549,7 +4549,7 @@
             "44"
         ],
         "topLevelDomain": [
-            ".gg"
+            "gg"
         ],
         "alpha2Code": "GG",
         "alpha3Code": "GGY",
@@ -4603,7 +4603,7 @@
             "224"
         ],
         "topLevelDomain": [
-            ".gn"
+            "gn"
         ],
         "alpha2Code": "GN",
         "alpha3Code": "GIN",
@@ -4653,7 +4653,7 @@
             "245"
         ],
         "topLevelDomain": [
-            ".gw"
+            "gw"
         ],
         "alpha2Code": "GW",
         "alpha3Code": "GNB",
@@ -4702,7 +4702,7 @@
             "592"
         ],
         "topLevelDomain": [
-            ".gy"
+            "gy"
         ],
         "alpha2Code": "GY",
         "alpha3Code": "GUY",
@@ -4751,7 +4751,7 @@
             "509"
         ],
         "topLevelDomain": [
-            ".ht"
+            "ht"
         ],
         "alpha2Code": "HT",
         "alpha3Code": "HTI",
@@ -4795,8 +4795,8 @@
             ""
         ],
         "topLevelDomain": [
-            ".hm",
-            ".aq"
+            "hm",
+            "aq"
         ],
         "alpha2Code": "HM",
         "alpha3Code": "HMD",
@@ -4846,7 +4846,7 @@
             "504"
         ],
         "topLevelDomain": [
-            ".hn"
+            "hn"
         ],
         "alpha2Code": "HN",
         "alpha3Code": "HND",
@@ -4893,7 +4893,7 @@
             "852"
         ],
         "topLevelDomain": [
-            ".hk"
+            "hk"
         ],
         "alpha2Code": "HK",
         "alpha3Code": "HKG",
@@ -4946,7 +4946,7 @@
             "36"
         ],
         "topLevelDomain": [
-            ".hu"
+            "hu"
         ],
         "alpha2Code": "HU",
         "alpha3Code": "HUN",
@@ -4993,7 +4993,7 @@
             "354"
         ],
         "topLevelDomain": [
-            ".is"
+            "is"
         ],
         "alpha2Code": "IS",
         "alpha3Code": "ISL",
@@ -5049,7 +5049,7 @@
             "91"
         ],
         "topLevelDomain": [
-            ".in"
+            "in"
         ],
         "alpha2Code": "IN",
         "alpha3Code": "IND",
@@ -5102,7 +5102,7 @@
             "62"
         ],
         "topLevelDomain": [
-            ".id"
+            "id"
         ],
         "alpha2Code": "ID",
         "alpha3Code": "IDN",
@@ -5155,7 +5155,7 @@
             "225"
         ],
         "topLevelDomain": [
-            ".ci"
+            "ci"
         ],
         "alpha2Code": "CI",
         "alpha3Code": "CIV",
@@ -5209,7 +5209,7 @@
             "98"
         ],
         "topLevelDomain": [
-            ".ir"
+            "ir"
         ],
         "alpha2Code": "IR",
         "alpha3Code": "IRN",
@@ -5262,7 +5262,7 @@
             "964"
         ],
         "topLevelDomain": [
-            ".iq"
+            "iq"
         ],
         "alpha2Code": "IQ",
         "alpha3Code": "IRQ",
@@ -5312,7 +5312,7 @@
             "353"
         ],
         "topLevelDomain": [
-            ".ie"
+            "ie"
         ],
         "alpha2Code": "IE",
         "alpha3Code": "IRL",
@@ -5358,7 +5358,7 @@
             "44"
         ],
         "topLevelDomain": [
-            ".im"
+            "im"
         ],
         "alpha2Code": "IM",
         "alpha3Code": "IMN",
@@ -5410,7 +5410,7 @@
             "972"
         ],
         "topLevelDomain": [
-            ".il"
+            "il"
         ],
         "alpha2Code": "IL",
         "alpha3Code": "ISR",
@@ -5464,7 +5464,7 @@
             "39"
         ],
         "topLevelDomain": [
-            ".it"
+            "it"
         ],
         "alpha2Code": "IT",
         "alpha3Code": "ITA",
@@ -5508,7 +5508,7 @@
             "1876"
         ],
         "topLevelDomain": [
-            ".jm"
+            "jm"
         ],
         "alpha2Code": "JM",
         "alpha3Code": "JAM",
@@ -5554,7 +5554,7 @@
             "81"
         ],
         "topLevelDomain": [
-            ".jp"
+            "jp"
         ],
         "alpha2Code": "JP",
         "alpha3Code": "JPN",
@@ -5599,7 +5599,7 @@
             "44"
         ],
         "topLevelDomain": [
-            ".je"
+            "je"
         ],
         "alpha2Code": "JE",
         "alpha3Code": "JEY",
@@ -5651,7 +5651,7 @@
             "962"
         ],
         "topLevelDomain": [
-            ".jo"
+            "jo"
         ],
         "alpha2Code": "JO",
         "alpha3Code": "JOR",
@@ -5710,8 +5710,8 @@
             "77"
         ],
         "topLevelDomain": [
-            ".kz",
-            ".қаз"
+            "kz",
+            "қаз"
         ],
         "alpha2Code": "KZ",
         "alpha3Code": "KAZ",
@@ -5764,7 +5764,7 @@
             "254"
         ],
         "topLevelDomain": [
-            ".ke"
+            "ke"
         ],
         "alpha2Code": "KE",
         "alpha3Code": "KEN",
@@ -5813,7 +5813,7 @@
             "686"
         ],
         "topLevelDomain": [
-            ".ki"
+            "ki"
         ],
         "alpha2Code": "KI",
         "alpha3Code": "KIR",
@@ -5862,7 +5862,7 @@
             "965"
         ],
         "topLevelDomain": [
-            ".kw"
+            "kw"
         ],
         "alpha2Code": "KW",
         "alpha3Code": "KWT",
@@ -5915,7 +5915,7 @@
             "996"
         ],
         "topLevelDomain": [
-            ".kg"
+            "kg"
         ],
         "alpha2Code": "KG",
         "alpha3Code": "KGZ",
@@ -5969,7 +5969,7 @@
             "856"
         ],
         "topLevelDomain": [
-            ".la"
+            "la"
         ],
         "alpha2Code": "LA",
         "alpha3Code": "LAO",
@@ -6020,7 +6020,7 @@
             "371"
         ],
         "topLevelDomain": [
-            ".lv"
+            "lv"
         ],
         "alpha2Code": "LV",
         "alpha3Code": "LVA",
@@ -6069,7 +6069,7 @@
             "961"
         ],
         "topLevelDomain": [
-            ".lb"
+            "lb"
         ],
         "alpha2Code": "LB",
         "alpha3Code": "LBN",
@@ -6118,7 +6118,7 @@
             "266"
         ],
         "topLevelDomain": [
-            ".ls"
+            "ls"
         ],
         "alpha2Code": "LS",
         "alpha3Code": "LSO",
@@ -6169,7 +6169,7 @@
             "231"
         ],
         "topLevelDomain": [
-            ".lr"
+            "lr"
         ],
         "alpha2Code": "LR",
         "alpha3Code": "LBR",
@@ -6222,7 +6222,7 @@
             "218"
         ],
         "topLevelDomain": [
-            ".ly"
+            "ly"
         ],
         "alpha2Code": "LY",
         "alpha3Code": "LBY",
@@ -6271,7 +6271,7 @@
             "423"
         ],
         "topLevelDomain": [
-            ".li"
+            "li"
         ],
         "alpha2Code": "LI",
         "alpha3Code": "LIE",
@@ -6322,7 +6322,7 @@
             "370"
         ],
         "topLevelDomain": [
-            ".lt"
+            "lt"
         ],
         "alpha2Code": "LT",
         "alpha3Code": "LTU",
@@ -6374,7 +6374,7 @@
             "352"
         ],
         "topLevelDomain": [
-            ".lu"
+            "lu"
         ],
         "alpha2Code": "LU",
         "alpha3Code": "LUX",
@@ -6426,7 +6426,7 @@
             "853"
         ],
         "topLevelDomain": [
-            ".mo"
+            "mo"
         ],
         "alpha2Code": "MO",
         "alpha3Code": "MAC",
@@ -6479,7 +6479,7 @@
             "389"
         ],
         "topLevelDomain": [
-            ".mk"
+            "mk"
         ],
         "alpha2Code": "MK",
         "alpha3Code": "MKD",
@@ -6526,7 +6526,7 @@
             "261"
         ],
         "topLevelDomain": [
-            ".mg"
+            "mg"
         ],
         "alpha2Code": "MG",
         "alpha3Code": "MDG",
@@ -6576,7 +6576,7 @@
             "265"
         ],
         "topLevelDomain": [
-            ".mw"
+            "mw"
         ],
         "alpha2Code": "MW",
         "alpha3Code": "MWI",
@@ -6625,7 +6625,7 @@
             "60"
         ],
         "topLevelDomain": [
-            ".my"
+            "my"
         ],
         "alpha2Code": "MY",
         "alpha3Code": "MYS",
@@ -6670,7 +6670,7 @@
             "960"
         ],
         "topLevelDomain": [
-            ".mv"
+            "mv"
         ],
         "alpha2Code": "MV",
         "alpha3Code": "MDV",
@@ -6724,7 +6724,7 @@
             "223"
         ],
         "topLevelDomain": [
-            ".ml"
+            "ml"
         ],
         "alpha2Code": "ML",
         "alpha3Code": "MLI",
@@ -6770,7 +6770,7 @@
             "356"
         ],
         "topLevelDomain": [
-            ".mt"
+            "mt"
         ],
         "alpha2Code": "MT",
         "alpha3Code": "MLT",
@@ -6817,7 +6817,7 @@
             "692"
         ],
         "topLevelDomain": [
-            ".mh"
+            "mh"
         ],
         "alpha2Code": "MH",
         "alpha3Code": "MHL",
@@ -6860,7 +6860,7 @@
             "596"
         ],
         "topLevelDomain": [
-            ".mq"
+            "mq"
         ],
         "alpha2Code": "MQ",
         "alpha3Code": "MTQ",
@@ -6911,7 +6911,7 @@
             "222"
         ],
         "topLevelDomain": [
-            ".mr"
+            "mr"
         ],
         "alpha2Code": "MR",
         "alpha3Code": "MRT",
@@ -6957,7 +6957,7 @@
             "230"
         ],
         "topLevelDomain": [
-            ".mu"
+            "mu"
         ],
         "alpha2Code": "MU",
         "alpha3Code": "MUS",
@@ -7001,7 +7001,7 @@
             "262"
         ],
         "topLevelDomain": [
-            ".yt"
+            "yt"
         ],
         "alpha2Code": "YT",
         "alpha3Code": "MYT",
@@ -7054,7 +7054,7 @@
             "52"
         ],
         "topLevelDomain": [
-            ".mx"
+            "mx"
         ],
         "alpha2Code": "MX",
         "alpha3Code": "MEX",
@@ -7100,7 +7100,7 @@
             "691"
         ],
         "topLevelDomain": [
-            ".fm"
+            "fm"
         ],
         "alpha2Code": "FM",
         "alpha3Code": "FSM",
@@ -7149,7 +7149,7 @@
             "373"
         ],
         "topLevelDomain": [
-            ".md"
+            "md"
         ],
         "alpha2Code": "MD",
         "alpha3Code": "MDA",
@@ -7197,7 +7197,7 @@
             "377"
         ],
         "topLevelDomain": [
-            ".mc"
+            "mc"
         ],
         "alpha2Code": "MC",
         "alpha3Code": "MCO",
@@ -7245,7 +7245,7 @@
             "976"
         ],
         "topLevelDomain": [
-            ".mn"
+            "mn"
         ],
         "alpha2Code": "MN",
         "alpha3Code": "MNG",
@@ -7296,7 +7296,7 @@
             "382"
         ],
         "topLevelDomain": [
-            ".me"
+            "me"
         ],
         "alpha2Code": "ME",
         "alpha3Code": "MNE",
@@ -7341,7 +7341,7 @@
             "1664"
         ],
         "topLevelDomain": [
-            ".ms"
+            "ms"
         ],
         "alpha2Code": "MS",
         "alpha3Code": "MSR",
@@ -7391,7 +7391,7 @@
             "212"
         ],
         "topLevelDomain": [
-            ".ma"
+            "ma"
         ],
         "alpha2Code": "MA",
         "alpha3Code": "MAR",
@@ -7444,7 +7444,7 @@
             "258"
         ],
         "topLevelDomain": [
-            ".mz"
+            "mz"
         ],
         "alpha2Code": "MZ",
         "alpha3Code": "MOZ",
@@ -7497,7 +7497,7 @@
             "95"
         ],
         "topLevelDomain": [
-            ".mm"
+            "mm"
         ],
         "alpha2Code": "MM",
         "alpha3Code": "MMR",
@@ -7548,7 +7548,7 @@
             "264"
         ],
         "topLevelDomain": [
-            ".na"
+            "na"
         ],
         "alpha2Code": "NA",
         "alpha3Code": "NAM",
@@ -7598,7 +7598,7 @@
             "674"
         ],
         "topLevelDomain": [
-            ".nr"
+            "nr"
         ],
         "alpha2Code": "NR",
         "alpha3Code": "NRU",
@@ -7648,7 +7648,7 @@
             "977"
         ],
         "topLevelDomain": [
-            ".np"
+            "np"
         ],
         "alpha2Code": "NP",
         "alpha3Code": "NPL",
@@ -7695,7 +7695,7 @@
             "31"
         ],
         "topLevelDomain": [
-            ".nl"
+            "nl"
         ],
         "alpha2Code": "NL",
         "alpha3Code": "NLD",
@@ -7737,7 +7737,7 @@
             "687"
         ],
         "topLevelDomain": [
-            ".nc"
+            "nc"
         ],
         "alpha2Code": "NC",
         "alpha3Code": "NCL",
@@ -7786,7 +7786,7 @@
             "64"
         ],
         "topLevelDomain": [
-            ".nz"
+            "nz"
         ],
         "alpha2Code": "NZ",
         "alpha3Code": "NZL",
@@ -7836,7 +7836,7 @@
             "505"
         ],
         "topLevelDomain": [
-            ".ni"
+            "ni"
         ],
         "alpha2Code": "NI",
         "alpha3Code": "NIC",
@@ -7891,7 +7891,7 @@
             "227"
         ],
         "topLevelDomain": [
-            ".ne"
+            "ne"
         ],
         "alpha2Code": "NE",
         "alpha3Code": "NER",
@@ -7943,7 +7943,7 @@
             "234"
         ],
         "topLevelDomain": [
-            ".ng"
+            "ng"
         ],
         "alpha2Code": "NG",
         "alpha3Code": "NGA",
@@ -7985,7 +7985,7 @@
             "683"
         ],
         "topLevelDomain": [
-            ".nu"
+            "nu"
         ],
         "alpha2Code": "NU",
         "alpha3Code": "NIU",
@@ -8029,7 +8029,7 @@
             "672"
         ],
         "topLevelDomain": [
-            ".nf"
+            "nf"
         ],
         "alpha2Code": "NF",
         "alpha3Code": "NFK",
@@ -8080,7 +8080,7 @@
             "850"
         ],
         "topLevelDomain": [
-            ".kp"
+            "kp"
         ],
         "alpha2Code": "KP",
         "alpha3Code": "PRK",
@@ -8124,7 +8124,7 @@
             "1670"
         ],
         "topLevelDomain": [
-            ".mp"
+            "mp"
         ],
         "alpha2Code": "MP",
         "alpha3Code": "MNP",
@@ -8178,7 +8178,7 @@
             "47"
         ],
         "topLevelDomain": [
-            ".no"
+            "no"
         ],
         "alpha2Code": "NO",
         "alpha3Code": "NOR",
@@ -8230,7 +8230,7 @@
             "968"
         ],
         "topLevelDomain": [
-            ".om"
+            "om"
         ],
         "alpha2Code": "OM",
         "alpha3Code": "OMN",
@@ -8282,7 +8282,7 @@
             "92"
         ],
         "topLevelDomain": [
-            ".pk"
+            "pk"
         ],
         "alpha2Code": "PK",
         "alpha3Code": "PAK",
@@ -8329,7 +8329,7 @@
             "680"
         ],
         "topLevelDomain": [
-            ".pw"
+            "pw"
         ],
         "alpha2Code": "PW",
         "alpha3Code": "PLW",
@@ -8377,7 +8377,7 @@
             "970"
         ],
         "topLevelDomain": [
-            ".ps"
+            "ps"
         ],
         "alpha2Code": "PS",
         "alpha3Code": "PSE",
@@ -8426,7 +8426,7 @@
             "507"
         ],
         "topLevelDomain": [
-            ".pa"
+            "pa"
         ],
         "alpha2Code": "PA",
         "alpha3Code": "PAN",
@@ -8475,7 +8475,7 @@
             "675"
         ],
         "topLevelDomain": [
-            ".pg"
+            "pg"
         ],
         "alpha2Code": "PG",
         "alpha3Code": "PNG",
@@ -8526,7 +8526,7 @@
             "595"
         ],
         "topLevelDomain": [
-            ".py"
+            "py"
         ],
         "alpha2Code": "PY",
         "alpha3Code": "PRY",
@@ -8579,7 +8579,7 @@
             "51"
         ],
         "topLevelDomain": [
-            ".pe"
+            "pe"
         ],
         "alpha2Code": "PE",
         "alpha3Code": "PER",
@@ -8625,7 +8625,7 @@
             "63"
         ],
         "topLevelDomain": [
-            ".ph"
+            "ph"
         ],
         "alpha2Code": "PH",
         "alpha3Code": "PHL",
@@ -8668,7 +8668,7 @@
             "64"
         ],
         "topLevelDomain": [
-            ".pn"
+            "pn"
         ],
         "alpha2Code": "PN",
         "alpha3Code": "PCN",
@@ -8722,7 +8722,7 @@
             "48"
         ],
         "topLevelDomain": [
-            ".pl"
+            "pl"
         ],
         "alpha2Code": "PL",
         "alpha3Code": "POL",
@@ -8772,7 +8772,7 @@
             "351"
         ],
         "topLevelDomain": [
-            ".pt"
+            "pt"
         ],
         "alpha2Code": "PT",
         "alpha3Code": "PRT",
@@ -8817,7 +8817,7 @@
             "1939"
         ],
         "topLevelDomain": [
-            ".pr"
+            "pr"
         ],
         "alpha2Code": "PR",
         "alpha3Code": "PRI",
@@ -8866,7 +8866,7 @@
             "974"
         ],
         "topLevelDomain": [
-            ".qa"
+            "qa"
         ],
         "alpha2Code": "QA",
         "alpha3Code": "QAT",
@@ -8958,7 +8958,7 @@
             "262"
         ],
         "topLevelDomain": [
-            ".re"
+            "re"
         ],
         "alpha2Code": "RE",
         "alpha3Code": "REU",
@@ -9011,7 +9011,7 @@
             "40"
         ],
         "topLevelDomain": [
-            ".ro"
+            "ro"
         ],
         "alpha2Code": "RO",
         "alpha3Code": "ROU",
@@ -9082,7 +9082,7 @@
             "7"
         ],
         "topLevelDomain": [
-            ".ru"
+            "ru"
         ],
         "alpha2Code": "RU",
         "alpha3Code": "RUS",
@@ -9134,7 +9134,7 @@
             "250"
         ],
         "topLevelDomain": [
-            ".rw"
+            "rw"
         ],
         "alpha2Code": "RW",
         "alpha3Code": "RWA",
@@ -9181,7 +9181,7 @@
             "590"
         ],
         "topLevelDomain": [
-            ".bl"
+            "bl"
         ],
         "alpha2Code": "BL",
         "alpha3Code": "BLM",
@@ -9223,7 +9223,7 @@
             "290"
         ],
         "topLevelDomain": [
-            ".sh"
+            "sh"
         ],
         "alpha2Code": "SH",
         "alpha3Code": "SHN",
@@ -9268,7 +9268,7 @@
             "1869"
         ],
         "topLevelDomain": [
-            ".kn"
+            "kn"
         ],
         "alpha2Code": "KN",
         "alpha3Code": "KNA",
@@ -9312,7 +9312,7 @@
             "1758"
         ],
         "topLevelDomain": [
-            ".lc"
+            "lc"
         ],
         "alpha2Code": "LC",
         "alpha3Code": "LCA",
@@ -9359,9 +9359,9 @@
             "590"
         ],
         "topLevelDomain": [
-            ".mf",
-            ".fr",
-            ".gp"
+            "mf",
+            "fr",
+            "gp"
         ],
         "alpha2Code": "MF",
         "alpha3Code": "MAF",
@@ -9406,7 +9406,7 @@
             "508"
         ],
         "topLevelDomain": [
-            ".pm"
+            "pm"
         ],
         "alpha2Code": "PM",
         "alpha3Code": "SPM",
@@ -9450,7 +9450,7 @@
             "1784"
         ],
         "topLevelDomain": [
-            ".vc"
+            "vc"
         ],
         "alpha2Code": "VC",
         "alpha3Code": "VCT",
@@ -9496,7 +9496,7 @@
             "685"
         ],
         "topLevelDomain": [
-            ".ws"
+            "ws"
         ],
         "alpha2Code": "WS",
         "alpha3Code": "WSM",
@@ -9545,7 +9545,7 @@
             "378"
         ],
         "topLevelDomain": [
-            ".sm"
+            "sm"
         ],
         "alpha2Code": "SM",
         "alpha3Code": "SMR",
@@ -9591,7 +9591,7 @@
             "239"
         ],
         "topLevelDomain": [
-            ".st"
+            "st"
         ],
         "alpha2Code": "ST",
         "alpha3Code": "STP",
@@ -9645,7 +9645,7 @@
             "966"
         ],
         "topLevelDomain": [
-            ".sa"
+            "sa"
         ],
         "alpha2Code": "SA",
         "alpha3Code": "SAU",
@@ -9697,7 +9697,7 @@
             "221"
         ],
         "topLevelDomain": [
-            ".sn"
+            "sn"
         ],
         "alpha2Code": "SN",
         "alpha3Code": "SEN",
@@ -9754,7 +9754,7 @@
             "381"
         ],
         "topLevelDomain": [
-            ".rs"
+            "rs"
         ],
         "alpha2Code": "RS",
         "alpha3Code": "SRB",
@@ -9801,7 +9801,7 @@
             "248"
         ],
         "topLevelDomain": [
-            ".sc"
+            "sc"
         ],
         "alpha2Code": "SC",
         "alpha3Code": "SYC",
@@ -9850,7 +9850,7 @@
             "232"
         ],
         "topLevelDomain": [
-            ".sl"
+            "sl"
         ],
         "alpha2Code": "SL",
         "alpha3Code": "SLE",
@@ -9897,7 +9897,7 @@
             "65"
         ],
         "topLevelDomain": [
-            ".sg"
+            "sg"
         ],
         "alpha2Code": "SG",
         "alpha3Code": "SGP",
@@ -9944,7 +9944,7 @@
             "1721"
         ],
         "topLevelDomain": [
-            ".sx"
+            "sx"
         ],
         "alpha2Code": "SX",
         "alpha3Code": "SXM",
@@ -9997,7 +9997,7 @@
             "421"
         ],
         "topLevelDomain": [
-            ".sk"
+            "sk"
         ],
         "alpha2Code": "SK",
         "alpha3Code": "SVK",
@@ -10048,7 +10048,7 @@
             "386"
         ],
         "topLevelDomain": [
-            ".si"
+            "si"
         ],
         "alpha2Code": "SI",
         "alpha3Code": "SVN",
@@ -10092,7 +10092,7 @@
             "677"
         ],
         "topLevelDomain": [
-            ".sb"
+            "sb"
         ],
         "alpha2Code": "SB",
         "alpha3Code": "SLB",
@@ -10144,7 +10144,7 @@
             "252"
         ],
         "topLevelDomain": [
-            ".so"
+            "so"
         ],
         "alpha2Code": "SO",
         "alpha3Code": "SOM",
@@ -10199,7 +10199,7 @@
             "27"
         ],
         "topLevelDomain": [
-            ".za"
+            "za"
         ],
         "alpha2Code": "ZA",
         "alpha3Code": "ZAF",
@@ -10251,7 +10251,7 @@
             "500"
         ],
         "topLevelDomain": [
-            ".gs"
+            "gs"
         ],
         "alpha2Code": "GS",
         "alpha3Code": "SGS",
@@ -10298,7 +10298,7 @@
             "82"
         ],
         "topLevelDomain": [
-            ".kr"
+            "kr"
         ],
         "alpha2Code": "KR",
         "alpha3Code": "KOR",
@@ -10349,7 +10349,7 @@
             "211"
         ],
         "topLevelDomain": [
-            ".ss"
+            "ss"
         ],
         "alpha2Code": "SS",
         "alpha3Code": "SSD",
@@ -10402,7 +10402,7 @@
             "34"
         ],
         "topLevelDomain": [
-            ".es"
+            "es"
         ],
         "alpha2Code": "ES",
         "alpha3Code": "ESP",
@@ -10450,7 +10450,7 @@
             "94"
         ],
         "topLevelDomain": [
-            ".lk"
+            "lk"
         ],
         "alpha2Code": "LK",
         "alpha3Code": "LKA",
@@ -10505,7 +10505,7 @@
             "249"
         ],
         "topLevelDomain": [
-            ".sd"
+            "sd"
         ],
         "alpha2Code": "SD",
         "alpha3Code": "SDN",
@@ -10559,7 +10559,7 @@
             "597"
         ],
         "topLevelDomain": [
-            ".sr"
+            "sr"
         ],
         "alpha2Code": "SR",
         "alpha3Code": "SUR",
@@ -10602,7 +10602,7 @@
             "4779"
         ],
         "topLevelDomain": [
-            ".sj"
+            "sj"
         ],
         "alpha2Code": "SJ",
         "alpha3Code": "SJM",
@@ -10654,7 +10654,7 @@
             "268"
         ],
         "topLevelDomain": [
-            ".sz"
+            "sz"
         ],
         "alpha2Code": "SZ",
         "alpha3Code": "SWZ",
@@ -10704,7 +10704,7 @@
             "46"
         ],
         "topLevelDomain": [
-            ".se"
+            "se"
         ],
         "alpha2Code": "SE",
         "alpha3Code": "SWE",
@@ -10759,7 +10759,7 @@
             "41"
         ],
         "topLevelDomain": [
-            ".ch"
+            "ch"
         ],
         "alpha2Code": "CH",
         "alpha3Code": "CHE",
@@ -10815,7 +10815,7 @@
             "963"
         ],
         "topLevelDomain": [
-            ".sy"
+            "sy"
         ],
         "alpha2Code": "SY",
         "alpha3Code": "SYR",
@@ -10863,7 +10863,7 @@
             "886"
         ],
         "topLevelDomain": [
-            ".tw"
+            "tw"
         ],
         "alpha2Code": "TW",
         "alpha3Code": "TWN",
@@ -10916,7 +10916,7 @@
             "992"
         ],
         "topLevelDomain": [
-            ".tj"
+            "tj"
         ],
         "alpha2Code": "TJ",
         "alpha3Code": "TJK",
@@ -10972,7 +10972,7 @@
             "255"
         ],
         "topLevelDomain": [
-            ".tz"
+            "tz"
         ],
         "alpha2Code": "TZ",
         "alpha3Code": "TZA",
@@ -11027,7 +11027,7 @@
             "66"
         ],
         "topLevelDomain": [
-            ".th"
+            "th"
         ],
         "alpha2Code": "TH",
         "alpha3Code": "THA",
@@ -11077,7 +11077,7 @@
             "670"
         ],
         "topLevelDomain": [
-            ".tl"
+            "tl"
         ],
         "alpha2Code": "TL",
         "alpha3Code": "TLS",
@@ -11128,7 +11128,7 @@
             "228"
         ],
         "topLevelDomain": [
-            ".tg"
+            "tg"
         ],
         "alpha2Code": "TG",
         "alpha3Code": "TGO",
@@ -11170,7 +11170,7 @@
             "690"
         ],
         "topLevelDomain": [
-            ".tk"
+            "tk"
         ],
         "alpha2Code": "TK",
         "alpha3Code": "TKL",
@@ -11214,7 +11214,7 @@
             "676"
         ],
         "topLevelDomain": [
-            ".to"
+            "to"
         ],
         "alpha2Code": "TO",
         "alpha3Code": "TON",
@@ -11260,7 +11260,7 @@
             "1868"
         ],
         "topLevelDomain": [
-            ".tt"
+            "tt"
         ],
         "alpha2Code": "TT",
         "alpha3Code": "TTO",
@@ -11309,7 +11309,7 @@
             "216"
         ],
         "topLevelDomain": [
-            ".tn"
+            "tn"
         ],
         "alpha2Code": "TN",
         "alpha3Code": "TUN",
@@ -11365,7 +11365,7 @@
             "90"
         ],
         "topLevelDomain": [
-            ".tr"
+            "tr"
         ],
         "alpha2Code": "TR",
         "alpha3Code": "TUR",
@@ -11414,7 +11414,7 @@
             "993"
         ],
         "topLevelDomain": [
-            ".tm"
+            "tm"
         ],
         "alpha2Code": "TM",
         "alpha3Code": "TKM",
@@ -11457,7 +11457,7 @@
             "1649"
         ],
         "topLevelDomain": [
-            ".tc"
+            "tc"
         ],
         "alpha2Code": "TC",
         "alpha3Code": "TCA",
@@ -11501,7 +11501,7 @@
             "688"
         ],
         "topLevelDomain": [
-            ".tv"
+            "tv"
         ],
         "alpha2Code": "TV",
         "alpha3Code": "TUV",
@@ -11553,7 +11553,7 @@
             "256"
         ],
         "topLevelDomain": [
-            ".ug"
+            "ug"
         ],
         "alpha2Code": "UG",
         "alpha3Code": "UGA",
@@ -11607,7 +11607,7 @@
             "380"
         ],
         "topLevelDomain": [
-            ".ua"
+            "ua"
         ],
         "alpha2Code": "UA",
         "alpha3Code": "UKR",
@@ -11655,7 +11655,7 @@
             "971"
         ],
         "topLevelDomain": [
-            ".ae"
+            "ae"
         ],
         "alpha2Code": "AE",
         "alpha3Code": "ARE",
@@ -11711,7 +11711,7 @@
             "44"
         ],
         "topLevelDomain": [
-            ".uk"
+            "uk"
         ],
         "alpha2Code": "GB",
         "alpha3Code": "GBR",
@@ -11770,7 +11770,7 @@
             "1"
         ],
         "topLevelDomain": [
-            ".us"
+            "us"
         ],
         "alpha2Code": "US",
         "alpha3Code": "USA",
@@ -11821,7 +11821,7 @@
             "598"
         ],
         "topLevelDomain": [
-            ".uy"
+            "uy"
         ],
         "alpha2Code": "UY",
         "alpha3Code": "URY",
@@ -11875,7 +11875,7 @@
             "998"
         ],
         "topLevelDomain": [
-            ".uz"
+            "uz"
         ],
         "alpha2Code": "UZ",
         "alpha3Code": "UZB",
@@ -11923,7 +11923,7 @@
             "678"
         ],
         "topLevelDomain": [
-            ".vu"
+            "vu"
         ],
         "alpha2Code": "VU",
         "alpha3Code": "VUT",
@@ -11975,7 +11975,7 @@
             "58"
         ],
         "topLevelDomain": [
-            ".ve"
+            "ve"
         ],
         "alpha2Code": "VE",
         "alpha3Code": "VEN",
@@ -12025,7 +12025,7 @@
             "84"
         ],
         "topLevelDomain": [
-            ".vn"
+            "vn"
         ],
         "alpha2Code": "VN",
         "alpha3Code": "VNM",
@@ -12069,7 +12069,7 @@
             "681"
         ],
         "topLevelDomain": [
-            ".wf"
+            "wf"
         ],
         "alpha2Code": "WF",
         "alpha3Code": "WLF",
@@ -12116,7 +12116,7 @@
             "212"
         ],
         "topLevelDomain": [
-            ".eh"
+            "eh"
         ],
         "alpha2Code": "EH",
         "alpha3Code": "ESH",
@@ -12167,7 +12167,7 @@
             "967"
         ],
         "topLevelDomain": [
-            ".ye"
+            "ye"
         ],
         "alpha2Code": "YE",
         "alpha3Code": "YEM",
@@ -12221,7 +12221,7 @@
             "260"
         ],
         "topLevelDomain": [
-            ".zm"
+            "zm"
         ],
         "alpha2Code": "ZM",
         "alpha3Code": "ZMB",
@@ -12271,7 +12271,7 @@
             "263"
         ],
         "topLevelDomain": [
-            ".zw"
+            "zw"
         ],
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
